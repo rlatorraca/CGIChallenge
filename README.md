@@ -23,4 +23,4 @@ o   One reverses the direction of the fan at the current speed setting.
 a) Download the app package
 b) On linux, unpackage on root directory enter:
  - $ javac ./src/ca/com/cgi/CeilingFanOperations.java ./src/ca/com/cgi/MainCeilingFan.java  
- - $ cd src | java ca.com.cgi.MainCeilingFan    
+ - $ cd src ; java ca.com.cgi.MainCeilingFan    
