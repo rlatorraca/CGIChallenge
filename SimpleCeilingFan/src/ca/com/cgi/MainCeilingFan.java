@@ -83,7 +83,8 @@ public class MainCeilingFan {
         catch (IOException ex) {
             ex.printStackTrace();
         }
-        return valueEntered.trim().toLowerCase();
+        valueEntered.toLowerCase();
+        return valueEntered.trim();
     }
 
     private static boolean getCurrentDirection() {
